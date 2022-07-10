@@ -1,9 +1,2 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Responsive 
+Більше 488px маємо 2 карточки у ряд, більше 768px - 3 карточки і більше 1024px - 4. Макс кількість карточок у ряд - 4
